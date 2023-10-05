@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "284886556278",
+    "project_id": "ecommercedemo-cb5ac",
+    "storage_bucket": "ecommercedemo-cb5ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284886556278:android:45f6981388511628d6c957",
+        "android_client_info": {
+          "package_name": "com.ecommmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284886556278-02un1ikh07ol7pg7udrg98s506ubcfv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyAOsGzMfedTm_gHEd54aMOmIMGQLYUfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284886556278-02un1ikh07ol7pg7udrg98s506ubcfv1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284886556278-t5tk63mk247cpef9m5jfret3aselnq9r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.EcommMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
